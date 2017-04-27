@@ -16,7 +16,6 @@ class Template
         include ($tpl_name);
         $this->template = ob_get_contents();
       ob_end_clean();
-      return $this->template;
     }
    }
 

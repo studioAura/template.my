@@ -8,6 +8,8 @@
 
 <body  style="background-color: {BGCOLOR}">
    {CONTENT}
+   <br>
+   <p>Вcтавка простого =php=</p>
    <?php
     $a = 2;
     $b = 3;
