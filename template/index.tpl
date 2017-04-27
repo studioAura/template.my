@@ -9,7 +9,7 @@
 <body  style="background-color: {BGCOLOR}">
    {CONTENT}
    <br>
-   <p>Вcтавка простого кода php</p>
+   <p>Вcтавка простого кода php </p>
    <?php
     $a = 2;
     $b = 3;
